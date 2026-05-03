@@ -43,6 +43,24 @@ jobs:
         # Copy Batocera-specific files from repo
         cp batocera/N64RecompLauncher.sh staging/N64RecompLauncher/
         cp batocera/settings.json staging/N64RecompLauncher/
+        cp batocera/games.json staging/N64RecompLauncher/
+        cp -r batocera/Cache staging/N64RecompLauncher/
+        cp -r batocera/images staging/N64RecompLauncher/
+
+        # Write update_check.json stamped with the current upstream version.
+        # Without this the app treats itself as version 0.0 (bootstrap) and
+        # silently replaces itself on first launch without prompting the user.
+        UPSTREAM_VERSION=$(curl -sf "https://api.github.com/repos/SirDiabo/N64RecompLauncher/releases/latest" | jq -r '.tag_name' || echo "v0.0")
+        NOW=$(date -u +"%Y-%m-%dT%H:%M:%S.0000000Z")
+        cat > staging/N64RecompLauncher/update_check.json << EOF
+{
+  "LastCheckTime": "${NOW}",
+  "LastKnownVersion": "${UPSTREAM_VERSION}",
+  "CurrentVersion": "${UPSTREAM_VERSION}",
+  "ETag": "",
+  "UpdateAvailable": false
+}
+EOF
 
         chmod +x staging/N64RecompLauncher/N64RecompLauncher
         chmod +x staging/N64RecompLauncher/N64RecompLauncher.sh
