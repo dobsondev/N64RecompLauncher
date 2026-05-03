@@ -409,3 +409,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 flatpak.bat
+
+# Extra builds folder for local development etc...
+builds/*

@@ -1,0 +1,994 @@
+{
+  "Eukaryot/sonic3air": {
+    "Version": "v26.03.28.0-stable",
+    "LastChecked": "2026-04-22T13:55:34.7349819Z",
+    "ETag": "\u00226849c7468f92ff854e7619861b6cbde68361087c09e3d90db2a23274810b7295\u0022",
+    "CachedRelease": {
+      "tag_name": "v26.03.28.0-stable",
+      "assets": [
+        {
+          "name": "artifacts.7z",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/artifacts.7z"
+        },
+        {
+          "name": "sonic3air_game.apk",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/sonic3air_game.apk"
+        },
+        {
+          "name": "sonic3air_game.tar.gz",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/sonic3air_game.tar.gz"
+        },
+        {
+          "name": "sonic3air_game.zip",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/sonic3air_game.zip"
+        },
+        {
+          "name": "sonic3air_game_64bit.zip",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/sonic3air_game_64bit.zip"
+        },
+        {
+          "name": "sonic3air_mac_260328.dmg",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/sonic3air_mac_260328.dmg"
+        },
+        {
+          "name": "sonic3air_web_data.zip",
+          "browser_download_url": "https://github.com/Eukaryot/sonic3air/releases/download/v26.03.28.0-stable/sonic3air_web_data.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.7349824Z"
+  },
+  "JHDev2006/Super-Mario-Bros.-Remastered-Public": {
+    "Version": "1.1-26w13a",
+    "LastChecked": "2026-04-22T13:55:34.3693405Z",
+    "ETag": "\u0022996185ca5bd27759bb1b7f13352238211e0cf858632d4897969f951ac67f8756\u0022",
+    "CachedRelease": {
+      "tag_name": "1.1-26w13a",
+      "assets": [
+        {
+          "name": "Linux.zip",
+          "browser_download_url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-26w13a/Linux.zip"
+        },
+        {
+          "name": "Windows.zip",
+          "browser_download_url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-26w13a/Windows.zip"
+        }
+      ],
+      "prerelease": true
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3693407Z"
+  },
+  "sonicdcer/DNZHRecomp": {
+    "Version": "0.0.3",
+    "LastChecked": "2026-04-22T13:53:13.3050495Z",
+    "ETag": "\u00229ae6ad19f56a783c4ff6549585113dc6abb71058237d6896ca8e98d0a8e791bc\u0022",
+    "CachedRelease": {
+      "tag_name": "0.0.3",
+      "assets": [
+        {
+          "name": "DNZHRecompiled-0.0.3-Flatpak-X64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/DNZHRecomp/releases/download/0.0.3/DNZHRecompiled-0.0.3-Flatpak-X64-Release.zip"
+        },
+        {
+          "name": "DNZHRecompiled-0.0.3-Linux-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/DNZHRecomp/releases/download/0.0.3/DNZHRecompiled-0.0.3-Linux-ARM64-Release.zip"
+        },
+        {
+          "name": "DNZHRecompiled-0.0.3-Linux-X64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/DNZHRecomp/releases/download/0.0.3/DNZHRecompiled-0.0.3-Linux-X64-Release.zip"
+        },
+        {
+          "name": "DNZHRecompiled-0.0.3-macOS-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/DNZHRecomp/releases/download/0.0.3/DNZHRecompiled-0.0.3-macOS-Release.zip"
+        },
+        {
+          "name": "DNZHRecompiled-0.0.3-Windows-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/sonicdcer/DNZHRecomp/releases/download/0.0.3/DNZHRecompiled-0.0.3-Windows-RelWithDebInfo.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.3050496Z"
+  },
+  "SolarCookies/TiP-Recomp": {
+    "Version": "1.9.3",
+    "LastChecked": "2026-04-22T13:55:34.3859314Z",
+    "ETag": "\u0022ab3818ea3000435780fa4bf15204beeca7ea6ef0bbcf9a9f5254d686f436f5c8\u0022",
+    "CachedRelease": {
+      "tag_name": "1.9.3",
+      "assets": [
+        {
+          "name": "retip-windows-x64.exe",
+          "browser_download_url": "https://github.com/SolarCookies/TiP-Recomp/releases/download/1.9.3/retip-windows-x64.exe"
+        },
+        {
+          "name": "retip.toml",
+          "browser_download_url": "https://github.com/SolarCookies/TiP-Recomp/releases/download/1.9.3/retip.toml"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3859315Z"
+  },
+  "WistfulHopes/DBZ1": {
+    "Version": "v0.0.1",
+    "LastChecked": "2026-04-22T13:55:34.3033137Z",
+    "ETag": "\u0022a6c8ad92730bba2174d7bad129af7bfa241ebcd2915b6911e2bb6350ce31e768\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.0.1",
+      "assets": [
+        {
+          "name": "dbz1.exe",
+          "browser_download_url": "https://github.com/WistfulHopes/DBZ1/releases/download/v0.0.1/dbz1.exe"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3033139Z"
+  },
+  "OpenDriver2/REDRIVER2": {
+    "Version": "7.4-rc2",
+    "LastChecked": "2026-04-22T13:55:34.3925994Z",
+    "ETag": "\u0022c7f1e3b295d47983ce704530143bfe0fc87732081b4a3e3bf6263badb507726e\u0022",
+    "CachedRelease": {
+      "tag_name": "7.4-rc2",
+      "assets": [
+        {
+          "name": "io.github.opendriver2.Redriver2.flatpak",
+          "browser_download_url": "https://github.com/OpenDriver2/REDRIVER2/releases/download/7.4-rc2/io.github.opendriver2.Redriver2.flatpak"
+        },
+        {
+          "name": "REDRIVER2_Linux_Release.tar.gz",
+          "browser_download_url": "https://github.com/OpenDriver2/REDRIVER2/releases/download/7.4-rc2/REDRIVER2_Linux_Release.tar.gz"
+        },
+        {
+          "name": "REDRIVER2_Linux_Release_dev.tar.gz",
+          "browser_download_url": "https://github.com/OpenDriver2/REDRIVER2/releases/download/7.4-rc2/REDRIVER2_Linux_Release_dev.tar.gz"
+        },
+        {
+          "name": "REDRIVER2_Win32_Release.zip",
+          "browser_download_url": "https://github.com/OpenDriver2/REDRIVER2/releases/download/7.4-rc2/REDRIVER2_Win32_Release.zip"
+        },
+        {
+          "name": "REDRIVER2_Win32_Release_dev.zip",
+          "browser_download_url": "https://github.com/OpenDriver2/REDRIVER2/releases/download/7.4-rc2/REDRIVER2_Win32_Release_dev.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3925995Z"
+  },
+  "Legend-of-Dragoon-Modding/Severed-Chains": {
+    "Version": "devbuild",
+    "LastChecked": "2026-04-22T13:55:34.4052047Z",
+    "ETag": "\u0022925bcb0fc2c31033658f4cfe9956f2dc32989795878d98f95c4218c06f7fee0e\u0022",
+    "CachedRelease": {
+      "tag_name": "devbuild",
+      "assets": [
+        {
+          "name": "Severed_Chains_Linux.tar.gz",
+          "browser_download_url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/download/devbuild/Severed_Chains_Linux.tar.gz"
+        },
+        {
+          "name": "Severed_Chains_Linux_ARM64.tar.gz",
+          "browser_download_url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/download/devbuild/Severed_Chains_Linux_ARM64.tar.gz"
+        },
+        {
+          "name": "Severed_Chains_MacOS_Intel.tar.gz",
+          "browser_download_url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/download/devbuild/Severed_Chains_MacOS_Intel.tar.gz"
+        },
+        {
+          "name": "Severed_Chains_MacOS_M1.tar.gz",
+          "browser_download_url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/download/devbuild/Severed_Chains_MacOS_M1.tar.gz"
+        },
+        {
+          "name": "Severed_Chains_Steam_Deck.tar.gz",
+          "browser_download_url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/download/devbuild/Severed_Chains_Steam_Deck.tar.gz"
+        },
+        {
+          "name": "Severed_Chains_Windows.zip",
+          "browser_download_url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/download/devbuild/Severed_Chains_Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.4052048Z"
+  },
+  "harbourmasters/shipwright": {
+    "Version": "9.2.3",
+    "LastChecked": "2026-04-22T13:55:34.5131716Z",
+    "ETag": "\u0022083c27bf3a5f51c3d3e8b31a2acb285a704b875669c456530463fb94ef099610\u0022",
+    "CachedRelease": {
+      "tag_name": "9.2.3",
+      "assets": [
+        {
+          "name": "SoH-Ackbar-Delta-Linux.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip"
+        },
+        {
+          "name": "SoH-Ackbar-Delta-Mac.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip"
+        },
+        {
+          "name": "SoH-Ackbar-Delta-Win64.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.5131719Z"
+  },
+  "MegaMan64Recomp/MegaMan64Recompiled": {
+    "Version": "v0.9.0",
+    "LastChecked": "2026-04-22T13:55:28.2411414Z",
+    "ETag": "\u0022fe4d32bdb77eaffd1da09ee869652aeddc8b7d50d4031039d67362b04bedb912\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.9.0",
+      "assets": [
+        {
+          "name": "MegaMan64Recompiled-v0.9.0-Flatpak-X64.zip",
+          "browser_download_url": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/download/v0.9.0/MegaMan64Recompiled-v0.9.0-Flatpak-X64.zip"
+        },
+        {
+          "name": "MegaMan64Recompiled-v0.9.0-Linux-ARM64.zip",
+          "browser_download_url": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/download/v0.9.0/MegaMan64Recompiled-v0.9.0-Linux-ARM64.zip"
+        },
+        {
+          "name": "MegaMan64Recompiled-v0.9.0-Linux-X64.zip",
+          "browser_download_url": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/download/v0.9.0/MegaMan64Recompiled-v0.9.0-Linux-X64.zip"
+        },
+        {
+          "name": "MegaMan64Recompiled-v0.9.0-macOS.zip",
+          "browser_download_url": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/download/v0.9.0/MegaMan64Recompiled-v0.9.0-macOS.zip"
+        },
+        {
+          "name": "MegaMan64Recompiled-v0.9.0-Windows.zip",
+          "browser_download_url": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/download/v0.9.0/MegaMan64Recompiled-v0.9.0-Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:28.2411414Z"
+  },
+  "harbourmasters/starship": {
+    "Version": "v2.0.0",
+    "LastChecked": "2026-04-22T13:55:34.2186058Z",
+    "ETag": "\u0022fb63aaff0ecc2023704be7492b9095b6a40d1651fafa86059f9753e838d1d28e\u0022",
+    "CachedRelease": {
+      "tag_name": "v2.0.0",
+      "assets": [
+        {
+          "name": "Starship-Barnard-Alfa-Linux.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Linux.zip"
+        },
+        {
+          "name": "Starship-Barnard-Alfa-Switch.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Switch.zip"
+        },
+        {
+          "name": "Starship-Barnard-Alfa-Windows.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.218606Z"
+  },
+  "Rainchus/Quest64-Recomp": {
+    "Version": "v0.1",
+    "LastChecked": "2026-04-22T13:55:28.2236036Z",
+    "ETag": "\u0022349750aff8fececd3ab8c23c5eb43f3c7e9a77fdc456824916ade557a0458d74\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.1",
+      "assets": [
+        {
+          "name": "Quest64Recompiledv0.1.zip",
+          "browser_download_url": "https://github.com/Rainchus/Quest64-Recomp/releases/download/v0.1/Quest64Recompiledv0.1.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:28.2236139Z"
+  },
+  "Zelda64Recomp/Zelda64Recomp": {
+    "Version": "v1.2.2",
+    "LastChecked": "2026-04-22T13:53:13.3937599Z",
+    "ETag": "\u0022021a8e8480e0163e0a52697bb6813a7123c001c2fcc3b4556f9c1612751340f0\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.2.2",
+      "assets": [
+        {
+          "name": "Zelda64Recompiled-v1.2.2-Linux-ARM64.zip",
+          "browser_download_url": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-Linux-ARM64.zip"
+        },
+        {
+          "name": "Zelda64Recompiled-v1.2.2-Linux-Flatpak-X64.zip",
+          "browser_download_url": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-Linux-Flatpak-X64.zip"
+        },
+        {
+          "name": "Zelda64Recompiled-v1.2.2-Linux-X64.zip",
+          "browser_download_url": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-Linux-X64.zip"
+        },
+        {
+          "name": "Zelda64Recompiled-v1.2.2-macOS.zip",
+          "browser_download_url": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-macOS.zip"
+        },
+        {
+          "name": "Zelda64Recompiled-v1.2.2-Windows.zip",
+          "browser_download_url": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.39376Z"
+  },
+  "sonicdcer/Starfox64Recomp": {
+    "Version": "1.0.3",
+    "LastChecked": "2026-04-22T13:53:13.3652481Z",
+    "ETag": "\u0022ee43f033f4eb6203091b6e642003f2f6705f8e64d5971ed734906eeb2601af77\u0022",
+    "CachedRelease": {
+      "tag_name": "1.0.3",
+      "assets": [
+        {
+          "name": "sf64_recomp_mod_Dev_Cheats.zip",
+          "browser_download_url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/sf64_recomp_mod_Dev_Cheats.zip"
+        },
+        {
+          "name": "Starfox64Recompiled-v1.0.3-Flatpak-X64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-Flatpak-X64-Release.zip"
+        },
+        {
+          "name": "Starfox64Recompiled-v1.0.3-Linux-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-Linux-ARM64-Release.zip"
+        },
+        {
+          "name": "Starfox64Recompiled-v1.0.3-Linux-X64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-Linux-X64-Release.zip"
+        },
+        {
+          "name": "Starfox64Recompiled-v1.0.3-macOS-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-macOS-Release.zip"
+        },
+        {
+          "name": "Starfox64Recompiled-v1.0.3-Windows-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-Windows-RelWithDebInfo.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.3652482Z"
+  },
+  "snesrev/smw": {
+    "Version": "v0.1",
+    "LastChecked": "2026-04-22T13:55:34.2736109Z",
+    "ETag": "\u0022dddcd70389252ea82359a979ca1e7c846057802ca37b939ccb5e872549ca025a\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.1",
+      "assets": [
+        {
+          "name": "smw_0.1.zip",
+          "browser_download_url": "https://github.com/snesrev/smw/releases/download/v0.1/smw_0.1.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.2736111Z"
+  },
+  "harbourmasters/ghostship": {
+    "Version": "1.0.2",
+    "LastChecked": "2026-04-22T13:55:34.3235073Z",
+    "ETag": "\u00225a69dfbb043fe59fd5e77959383b6975d5ef197fa595c016ba5b3a58bcb7d4ed\u0022",
+    "CachedRelease": {
+      "tag_name": "1.0.2",
+      "assets": [
+        {
+          "name": "Ghostship-Dutchman-Charlie-Linux.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Linux.zip"
+        },
+        {
+          "name": "Ghostship-Dutchman-Charlie-Mac.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Mac.zip"
+        },
+        {
+          "name": "Ghostship-Dutchman-Charlie-Win64.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Win64.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3235074Z"
+  },
+  "harbourmasters/2ship2harkinian": {
+    "Version": "4.0.2",
+    "LastChecked": "2026-04-22T13:55:34.3486533Z",
+    "ETag": "\u0022871c2e2e6afc3ac6d0b8555a9b2b96615e0172dc865c1a9df185510bbdc072cd\u0022",
+    "CachedRelease": {
+      "tag_name": "4.0.2",
+      "assets": [
+        {
+          "name": "2Ship-Keiichi-Charlie-Linux.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Linux.zip"
+        },
+        {
+          "name": "2Ship-Keiichi-Charlie-Mac.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Mac.zip"
+        },
+        {
+          "name": "2Ship-Keiichi-Charlie-Win64.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Win64.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3486539Z"
+  },
+  "RevoSucks/BM64Recomp": {
+    "Version": "v1.0.0",
+    "LastChecked": "2026-04-22T13:53:13.3142108Z",
+    "ETag": "\u0022e95d30d72fee32e173027765597b74d867a26bc1fe83c6c996e6f495fec2dc18\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.0.0",
+      "assets": [
+        {
+          "name": "BM64Recompiled-AppImage-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-AppImage-ARM64-Release.zip"
+        },
+        {
+          "name": "BM64Recompiled-AppImage-X64-Release.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-AppImage-X64-Release.zip"
+        },
+        {
+          "name": "BM64Recompiled-Flatpak-X64-Release.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-Flatpak-X64-Release.zip"
+        },
+        {
+          "name": "BM64Recompiled-Linux-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-Linux-ARM64-Release.zip"
+        },
+        {
+          "name": "BM64Recompiled-Linux-X64-Release.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-Linux-X64-Release.zip"
+        },
+        {
+          "name": "BM64Recompiled-macOS-Release.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-macOS-Release.zip"
+        },
+        {
+          "name": "BM64Recompiled-PDB-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-PDB-RelWithDebInfo.zip"
+        },
+        {
+          "name": "BM64Recompiled-Windows-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/RevoSucks/BM64Recomp/releases/download/v1.0.0/BM64Recompiled-Windows-RelWithDebInfo.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.3142109Z"
+  },
+  "RadzPrower/Zelda-3-Launcher": {
+    "Version": "v1.3.6.0",
+    "LastChecked": "2026-04-22T13:55:34.3894825Z",
+    "ETag": "\u0022c8141d91819f631b11f68d11d43a6b6c0e015f52eeca1154923dd15e7872845c\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.3.6.0",
+      "assets": [
+        {
+          "name": "Zelda_3_Launcher_v1.3.6.0.zip",
+          "browser_download_url": "https://github.com/RadzPrower/Zelda-3-Launcher/releases/download/v1.3.6.0/Zelda_3_Launcher_v1.3.6.0.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3894825Z"
+  },
+  "Cellenseres/SSSV_Recomp": {
+    "Version": "v0.2.0",
+    "LastChecked": "2026-04-22T13:55:28.4653813Z",
+    "ETag": "\u0022cc7a415594f955197a7a3073f1c0b5d159aff18ef363ecc9ead0db456b0b51e5\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.2.0",
+      "assets": [
+        {
+          "name": "SSSVRecompiled_v0.2.0_Linux.tar.gz",
+          "browser_download_url": "https://github.com/Cellenseres/SSSV_Recomp/releases/download/v0.2.0/SSSVRecompiled_v0.2.0_Linux.tar.gz"
+        },
+        {
+          "name": "SSSVRecompiled_v0.2.0_macOS.zip",
+          "browser_download_url": "https://github.com/Cellenseres/SSSV_Recomp/releases/download/v0.2.0/SSSVRecompiled_v0.2.0_macOS.zip"
+        },
+        {
+          "name": "SSSVRecompiled_v0.2.0_Windows.zip",
+          "browser_download_url": "https://github.com/Cellenseres/SSSV_Recomp/releases/download/v0.2.0/SSSVRecompiled_v0.2.0_Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:28.4653814Z"
+  },
+  "fgsfdsfgs/perfect_dark": {
+    "Version": "ci-dev-build",
+    "LastChecked": "2026-04-22T13:55:34.3116482Z",
+    "ETag": "\u0022a44931fbd8db37cec83aa3a41d8260ba7ec9e6dea2626aefea6d7206c5735794\u0022",
+    "CachedRelease": {
+      "tag_name": "ci-dev-build",
+      "assets": [
+        {
+          "name": "io.github.fgsfdsfgs.perfect_dark.flatpak",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/io.github.fgsfdsfgs.perfect_dark.flatpak"
+        },
+        {
+          "name": "pd-arm64-nswitch.zip",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-arm64-nswitch.zip"
+        },
+        {
+          "name": "pd-arm64-osx.tar.xz",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-arm64-osx.tar.xz"
+        },
+        {
+          "name": "pd-i686-linux.tar.gz",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-i686-linux.tar.gz"
+        },
+        {
+          "name": "pd-i686-windows.zip",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-i686-windows.zip"
+        },
+        {
+          "name": "pd-x86_64-linux.tar.gz",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-x86_64-linux.tar.gz"
+        },
+        {
+          "name": "pd-x86_64-osx.tar.xz",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-x86_64-osx.tar.xz"
+        },
+        {
+          "name": "pd-x86_64-windows.zip",
+          "browser_download_url": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-x86_64-windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3116483Z"
+  },
+  "open-goal/jak-project": {
+    "Version": "v0.3.1",
+    "LastChecked": "2026-04-22T13:55:34.8407328Z",
+    "ETag": "\u00224bff6ead707688436e76b6de827e62fec18f9c51b42c2b032683c259a4d40fb2\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.3.1",
+      "assets": [
+        {
+          "name": "opengoal-linux-v0.3.1.tar.gz",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-linux-v0.3.1.tar.gz"
+        },
+        {
+          "name": "opengoal-lsp-linux-v0.3.1.bin",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-lsp-linux-v0.3.1.bin"
+        },
+        {
+          "name": "opengoal-lsp-macos-arm-v0.3.1.bin",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-lsp-macos-arm-v0.3.1.bin"
+        },
+        {
+          "name": "opengoal-lsp-macos-intel-v0.3.1.bin",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-lsp-macos-intel-v0.3.1.bin"
+        },
+        {
+          "name": "opengoal-lsp-windows-v0.3.1.exe",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-lsp-windows-v0.3.1.exe"
+        },
+        {
+          "name": "opengoal-macos-arm-v0.3.1.tar.gz",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-macos-arm-v0.3.1.tar.gz"
+        },
+        {
+          "name": "opengoal-macos-intel-v0.3.1.tar.gz",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-macos-intel-v0.3.1.tar.gz"
+        },
+        {
+          "name": "opengoal-windows-v0.3.1.zip",
+          "browser_download_url": "https://github.com/open-goal/jak-project/releases/download/v0.3.1/opengoal-windows-v0.3.1.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.840733Z"
+  },
+  "flyngmt/ACGC-PC-Port": {
+    "Version": "v0.9.0.1-playtest",
+    "LastChecked": "2026-04-22T13:55:34.3530533Z",
+    "ETag": "\u002233374a657f972e06078d34ca4871687716e549548bdebd154ff0aeba4bf15bca\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.9.0.1-playtest",
+      "assets": [
+        {
+          "name": "ACGC-PC-Port0.9.0.1.zip",
+          "browser_download_url": "https://github.com/flyngmt/ACGC-PC-Port/releases/download/v0.9.0.1-playtest/ACGC-PC-Port0.9.0.1.zip"
+        }
+      ],
+      "prerelease": true
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3530535Z"
+  },
+  "wipeout-phantom-edition/wipeout-phantom-edition": {
+    "Version": "v1.2.256",
+    "LastChecked": "2026-04-22T13:55:34.5177526Z",
+    "ETag": "\u00224740b6e488c1bbb080a26327141537fbefae0c3d4c8f3572796a7751fea72477\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.2.256",
+      "assets": [
+        {
+          "name": "wipeout-x64-release.zip",
+          "browser_download_url": "https://github.com/wipeout-phantom-edition/wipeout-phantom-edition/releases/download/v1.2.256/wipeout-x64-release.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.5177527Z"
+  },
+  "DinosaurPlanetRecomp/dino-recomp": {
+    "Version": "v0.2.0",
+    "LastChecked": "2026-04-22T13:53:13.3862188Z",
+    "ETag": "\u0022a0ef284e8cd6d819c2d110eb5c462d476625d56fdc6a7ae789cf0265b52eff90\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.2.0",
+      "assets": [
+        {
+          "name": "DinosaurPlanetRecompiled-v0.2.0-AppImage-x64.AppImage",
+          "browser_download_url": "https://github.com/DinosaurPlanetRecomp/dino-recomp/releases/download/v0.2.0/DinosaurPlanetRecompiled-v0.2.0-AppImage-x64.AppImage"
+        },
+        {
+          "name": "DinosaurPlanetRecompiled-v0.2.0-Flatpak-x64.flatpak",
+          "browser_download_url": "https://github.com/DinosaurPlanetRecomp/dino-recomp/releases/download/v0.2.0/DinosaurPlanetRecompiled-v0.2.0-Flatpak-x64.flatpak"
+        },
+        {
+          "name": "DinosaurPlanetRecompiled-v0.2.0-Linux-x64.tar.gz",
+          "browser_download_url": "https://github.com/DinosaurPlanetRecomp/dino-recomp/releases/download/v0.2.0/DinosaurPlanetRecompiled-v0.2.0-Linux-x64.tar.gz"
+        },
+        {
+          "name": "DinosaurPlanetRecompiled-v0.2.0-Windows-x64.zip",
+          "browser_download_url": "https://github.com/DinosaurPlanetRecomp/dino-recomp/releases/download/v0.2.0/DinosaurPlanetRecompiled-v0.2.0-Windows-x64.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.3862189Z"
+  },
+  "Brawmario/infinite-mario-64-ever": {
+    "Version": "v0.1.5",
+    "LastChecked": "2026-04-22T13:55:34.3724528Z",
+    "ETag": "\u00224e1ae710e76d4f760446be144a068f20fda9ad09498fb27fca656c576398dee7\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.1.5",
+      "assets": [
+        {
+          "name": "infinite-mario-64-ever.v0.1.5.linux.zip",
+          "browser_download_url": "https://github.com/Brawmario/infinite-mario-64-ever/releases/download/v0.1.5/infinite-mario-64-ever.v0.1.5.linux.zip"
+        },
+        {
+          "name": "infinite-mario-64-ever.v0.1.5.mac.zip",
+          "browser_download_url": "https://github.com/Brawmario/infinite-mario-64-ever/releases/download/v0.1.5/infinite-mario-64-ever.v0.1.5.mac.zip"
+        },
+        {
+          "name": "infinite-mario-64-ever.v0.1.5.web.nothreads.zip",
+          "browser_download_url": "https://github.com/Brawmario/infinite-mario-64-ever/releases/download/v0.1.5/infinite-mario-64-ever.v0.1.5.web.nothreads.zip"
+        },
+        {
+          "name": "infinite-mario-64-ever.v0.1.5.web.pwa.zip",
+          "browser_download_url": "https://github.com/Brawmario/infinite-mario-64-ever/releases/download/v0.1.5/infinite-mario-64-ever.v0.1.5.web.pwa.zip"
+        },
+        {
+          "name": "infinite-mario-64-ever.v0.1.5.web.zip",
+          "browser_download_url": "https://github.com/Brawmario/infinite-mario-64-ever/releases/download/v0.1.5/infinite-mario-64-ever.v0.1.5.web.zip"
+        },
+        {
+          "name": "infinite-mario-64-ever.v0.1.5.windows.zip",
+          "browser_download_url": "https://github.com/Brawmario/infinite-mario-64-ever/releases/download/v0.1.5/infinite-mario-64-ever.v0.1.5.windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3724528Z"
+  },
+  "ElspethThePict/S1Forever": {
+    "Version": "1.5.1",
+    "LastChecked": "2026-04-22T13:55:34.3088402Z",
+    "ETag": "\u00229ae4b3c9b4fafd4767d8d72034d0d2183e2e0571e047be504557896a3e9c7836\u0022",
+    "CachedRelease": {
+      "tag_name": "1.5.1",
+      "assets": [
+        {
+          "name": "SonicForever_1.5.1_Android.zip",
+          "browser_download_url": "https://github.com/ElspethThePict/S1Forever/releases/download/1.5.1/SonicForever_1.5.1_Android.zip"
+        },
+        {
+          "name": "SonicForever_1.5.1_Switch.zip",
+          "browser_download_url": "https://github.com/ElspethThePict/S1Forever/releases/download/1.5.1/SonicForever_1.5.1_Switch.zip"
+        },
+        {
+          "name": "SonicForever_1.5.1_Windows.zip",
+          "browser_download_url": "https://github.com/ElspethThePict/S1Forever/releases/download/1.5.1/SonicForever_1.5.1_Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3088403Z"
+  },
+  "masterspike52/reNut": {
+    "Version": "HeFuckingDidit",
+    "LastChecked": "2026-04-22T13:55:34.5241868Z",
+    "ETag": "\u00225112f8db388f4124a37ec1d0f6c29231f0221826930fe3dfee10e97fd1b26396\u0022",
+    "CachedRelease": {
+      "tag_name": "HeFuckingDidit",
+      "assets": [
+        {
+          "name": "renut-windows-x64.exe",
+          "browser_download_url": "https://github.com/masterspike52/reNut/releases/download/HeFuckingDidit/renut-windows-x64.exe"
+        },
+        {
+          "name": "renut.toml",
+          "browser_download_url": "https://github.com/masterspike52/reNut/releases/download/HeFuckingDidit/renut.toml"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.5241869Z"
+  },
+  "RadzPrower/Super-Metroid-Launcher": {
+    "Version": "v1.0",
+    "LastChecked": "2026-04-22T13:55:34.4242875Z",
+    "ETag": "\u0022d634cbf97b51643a3bcfc2b964536a5e7be9fb029be0c663a54484dc058c6d5d\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.0",
+      "assets": [
+        {
+          "name": "Super_Metroid_Launcher_v1-0.zip",
+          "browser_download_url": "https://github.com/RadzPrower/Super-Metroid-Launcher/releases/download/v1.0/Super_Metroid_Launcher_v1-0.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.4242891Z"
+  },
+  "klorfmorf/Goemon64Recomp": {
+    "Version": "v0.2.0-dev",
+    "LastChecked": "2026-04-22T13:53:13.4245307Z",
+    "ETag": "\u002288139f2b56183919b05d79881e6bcd5fa86dc18d0a827889182600441b202faa\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.2.0-dev",
+      "assets": [
+        {
+          "name": "Goemon64Recompiled-AppImage-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-AppImage-ARM64-Release.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-AppImage-X64-Release.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-AppImage-X64-Release.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-Flatpak-X64-Release.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-Flatpak-X64-Release.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-Linux-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-Linux-ARM64-Release.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-Linux-X64-Release.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-Linux-X64-Release.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-macOS-Release.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-macOS-Release.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-PDB-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-PDB-RelWithDebInfo.zip"
+        },
+        {
+          "name": "Goemon64Recompiled-Windows-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.2.0-dev/Goemon64Recompiled-Windows-RelWithDebInfo.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.4245308Z"
+  },
+  "coop-deluxe/sm64coopdx": {
+    "Version": "v1.4.1",
+    "LastChecked": "2026-04-22T13:55:34.5198537Z",
+    "ETag": "\u0022a463479fd33a8e0a0ccb49c95fd96615d70b181422299996f03bd69e260b704e\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.4.1",
+      "assets": [
+        {
+          "name": "sm64coopdx_Linux.zip",
+          "browser_download_url": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_Linux.zip"
+        },
+        {
+          "name": "sm64coopdx_macOS_ARM.zip",
+          "browser_download_url": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_macOS_ARM.zip"
+        },
+        {
+          "name": "sm64coopdx_macOS_Intel.zip",
+          "browser_download_url": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_macOS_Intel.zip"
+        },
+        {
+          "name": "sm64coopdx_SteamOS.zip",
+          "browser_download_url": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_SteamOS.zip"
+        },
+        {
+          "name": "sm64coopdx_Windows_DirectX.zip",
+          "browser_download_url": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_Windows_DirectX.zip"
+        },
+        {
+          "name": "sm64coopdx_Windows_OpenGL.zip",
+          "browser_download_url": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_Windows_OpenGL.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.5198537Z"
+  },
+  "hedge-dev/UnleashedRecomp": {
+    "Version": "v1.0.3",
+    "LastChecked": "2026-04-22T13:55:34.3271882Z",
+    "ETag": "\u00226f047754fa8607cc8aa06b56b72b7bcac57078c30f703a6a5f397a04223fed4b\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.0.3",
+      "assets": [
+        {
+          "name": "UnleashedRecomp-Flatpak.zip",
+          "browser_download_url": "https://github.com/hedge-dev/UnleashedRecomp/releases/download/v1.0.3/UnleashedRecomp-Flatpak.zip"
+        },
+        {
+          "name": "UnleashedRecomp-Windows.zip",
+          "browser_download_url": "https://github.com/hedge-dev/UnleashedRecomp/releases/download/v1.0.3/UnleashedRecomp-Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.3271883Z"
+  },
+  "Rainchus/ChameleonTwist1-JP-Recomp": {
+    "Version": "v0.1",
+    "LastChecked": "2026-04-22T13:55:28.2352499Z",
+    "ETag": "\u00228a7c0bd7855283283661499ac1acf10f2193a60e515f8be19d452311f94498dd\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.1",
+      "assets": [
+        {
+          "name": "ChameleonTwistJPRecompiled.zip",
+          "browser_download_url": "https://github.com/Rainchus/ChameleonTwist1-JP-Recomp/releases/download/v0.1/ChameleonTwistJPRecompiled.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:28.23525Z"
+  },
+  "BanjoRecomp/BanjoRecomp": {
+    "Version": "v1.0.1",
+    "LastChecked": "2026-04-22T13:53:13.3415525Z",
+    "ETag": "\u0022e6615267d1d2f54dd10b50ff567fecf1f84267571b63fba3e957f59812289a4e\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.0.1",
+      "assets": [
+        {
+          "name": "BanjoRecompiled-v1.0.1-Linux-ARM64.zip",
+          "browser_download_url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-Linux-ARM64.zip"
+        },
+        {
+          "name": "BanjoRecompiled-v1.0.1-Linux-Flatpak-X64.zip",
+          "browser_download_url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-Linux-Flatpak-X64.zip"
+        },
+        {
+          "name": "BanjoRecompiled-v1.0.1-Linux-X64.zip",
+          "browser_download_url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-Linux-X64.zip"
+        },
+        {
+          "name": "BanjoRecompiled-v1.0.1-macOS.zip",
+          "browser_download_url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-macOS.zip"
+        },
+        {
+          "name": "BanjoRecompiled-v1.0.1-Windows.zip",
+          "browser_download_url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.3415526Z"
+  },
+  "theboy181/drmario64_recomp_plus": {
+    "Version": "1.0.0",
+    "LastChecked": "2026-04-22T13:53:13.2672785Z",
+    "ETag": "\u0022efcd6cfd01336d87338d012ca2559bd4e3655d762d485439090c2e28cdcad2f4\u0022",
+    "CachedRelease": {
+      "tag_name": "1.0.0",
+      "assets": [
+        {
+          "name": "Dr.Mario.64.Recompiled-v1.0.0-Windows.zip",
+          "browser_download_url": "https://github.com/theboy181/drmario64_recomp_plus/releases/download/1.0.0/Dr.Mario.64.Recompiled-v1.0.0-Windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.2672892Z"
+  },
+  "BigheadSMZ/Zelda-LA-DX-HD-Updated": {
+    "Version": "v1.7.7",
+    "LastChecked": "2026-04-22T13:55:34.6993536Z",
+    "ETag": "\u00225148489d140cfedb45603d69838d301f6f9efae87293291ecaf090a7b99b0c7e\u0022",
+    "CachedRelease": {
+      "tag_name": "v1.7.7",
+      "assets": [
+        {
+          "name": "LADXHD_Patcher.v1.7.7.exe",
+          "browser_download_url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated/releases/download/v1.7.7/LADXHD_Patcher.v1.7.7.exe"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.6993541Z"
+  },
+  "sonicdcer/MarioKart64Recomp": {
+    "Version": "v0.9.2",
+    "LastChecked": "2026-04-22T13:53:13.3397524Z",
+    "ETag": "\u0022053e29651a719f48f668ab626007de231d4bb7e1542ed7c530fed73493268746\u0022",
+    "CachedRelease": {
+      "tag_name": "v0.9.2",
+      "assets": [
+        {
+          "name": "MarioKart64Recompiled-v0.9.2-Flatpak-X64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.2/MarioKart64Recompiled-v0.9.2-Flatpak-X64-Release.zip"
+        },
+        {
+          "name": "MarioKart64Recompiled-v0.9.2-Linux-ARM64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.2/MarioKart64Recompiled-v0.9.2-Linux-ARM64-Release.zip"
+        },
+        {
+          "name": "MarioKart64Recompiled-v0.9.2-Linux-X64-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.2/MarioKart64Recompiled-v0.9.2-Linux-X64-Release.zip"
+        },
+        {
+          "name": "MarioKart64Recompiled-v0.9.2-macOS-Release.zip",
+          "browser_download_url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.2/MarioKart64Recompiled-v0.9.2-macOS-Release.zip"
+        },
+        {
+          "name": "MarioKart64Recompiled-v0.9.2-Windows-RelWithDebInfo.zip",
+          "browser_download_url": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.2/MarioKart64Recompiled-v0.9.2-Windows-RelWithDebInfo.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:53:13.3397525Z"
+  },
+  "harbourmasters/spaghettikart": {
+    "Version": "1.0.0",
+    "LastChecked": "2026-04-22T13:55:34.2407338Z",
+    "ETag": "\u0022d1b4747f3c9b28c673bd46457de9c2e477d69770114f3d5e6225357cf3a1fbd5\u0022",
+    "CachedRelease": {
+      "tag_name": "1.0.0",
+      "assets": [
+        {
+          "name": "spaghetti-linux.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-linux.zip"
+        },
+        {
+          "name": "spaghetti-mac-arm64.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-arm64.zip"
+        },
+        {
+          "name": "spaghetti-mac-intel-x64.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-intel-x64.zip"
+        },
+        {
+          "name": "spaghetti-windows.zip",
+          "browser_download_url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-windows.zip"
+        }
+      ],
+      "prerelease": false
+    },
+    "LastUpdateCheck": "2026-04-22T13:55:34.2407339Z"
+  }
+}
