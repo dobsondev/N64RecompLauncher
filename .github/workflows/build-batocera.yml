@@ -1,0 +1,60 @@
+name: Batocera Build
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build-batocera:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        submodules: recursive
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 9.0.x
+
+    - name: Restore dependencies
+      run: dotnet restore N64RecompLauncher.sln
+
+    - name: Publish Linux x64
+      run: dotnet publish N64RecompLauncher.csproj -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=false -o publish/linux-x64
+
+    - name: Prepare Batocera package
+      run: |
+        mkdir -p staging/N64RecompLauncher
+
+        # Copy binary and native libraries from build output
+        cp publish/linux-x64/N64RecompLauncher staging/N64RecompLauncher/
+        cp publish/linux-x64/libHarfBuzzSharp.so staging/N64RecompLauncher/ || true
+        cp publish/linux-x64/libSDL2.so staging/N64RecompLauncher/ || true
+        cp publish/linux-x64/libSkiaSharp.so staging/N64RecompLauncher/ || true
+        cp publish/linux-x64/N64RecompLauncher.dll.config staging/N64RecompLauncher/ || true
+
+        # Copy Batocera-specific files from repo
+        cp batocera/N64RecompLauncher.sh staging/N64RecompLauncher/
+        cp batocera/settings.json staging/N64RecompLauncher/
+
+        chmod +x staging/N64RecompLauncher/N64RecompLauncher
+        chmod +x staging/N64RecompLauncher/N64RecompLauncher.sh
+
+    - name: Create tar.gz
+      run: |
+        cd staging
+        tar -czf N64RecompLauncher-Batocera.tar.gz N64RecompLauncher/
+
+    - name: Upload Batocera artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: N64RecompLauncher-Batocera
+        path: staging/N64RecompLauncher-Batocera.tar.gz
+        retention-days: 14
